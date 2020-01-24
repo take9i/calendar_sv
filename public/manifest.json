@@ -1,6 +1,6 @@
 {
-  "short_name": "hyperapp-pwa",
-  "name": "Hyperapp progressive web app template",
+  "short_name": "svelte-pwa",
+  "name": "Svelte progressive web app template",
   "description": "A minimalist progressive web app compliant template for hyperapp projects",
   "display": "fullscreen",
   "scope": "/",
